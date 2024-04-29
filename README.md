@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamt_toby?style=social)](https://twitter.com/intent/follow?screen_name=iamt_toby)
+[![GitHub Follow](https://img.shields.io/github/followers/richdede?label=Follow&style=social)](https://github.com/richdede)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dee-prince-dede-970913217/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=social&logo=instagram)](https://www.instagram.com/iamt_toby/)
+  <br />
+  <br />
 
-## Getting Started
+  <h2 align="center">Notion Landing Page Website</h2>
 
-First, run the development server:
+<a href="https://apple-iphone15-nu.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![Site Desktop Demo](./thumbnail.png "Desktop Demo")
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🔗 [Links](#links)
+6. 🚀 [More](#more)
+
+## <a name="introduction">🤖 Introduction</a>
+
+This is a clone of Notion Landing Page website using Next.js, Typescript, Framer motion, illustration and TailwindCSS. It highlights the effective use of Framer motion and illustration image for displaying 
+
+If you're getting started and need assistance or face any bugs, contact me 
+
+  [LinkedIn](https://www.linkedin.com/in/dee-prince-dede-970913217/).
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- Typescript.js
+- OpenDooddle
+- Framer motion
+- Tailwind CSS
+
+## <a name="features">🔋 Features</a>
+
+👉 **Beautiful Subtle Smooth Animations using CSS**: Enhanced user experience with seamless and captivating animations powered by Opendoddles illustration.
+
+👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+
+and many more, including code architecture and reusability
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/richdede/notion_landing_clone.git
+cd notion_landing_clone
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## <a name="more">🚀 More</a>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Contact
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/dee-prince-dede-970913217/).
