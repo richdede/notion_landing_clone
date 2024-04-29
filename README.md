@@ -9,7 +9,7 @@
 
   <h2 align="center">Notion Landing Page Website</h2>
 
-<a href="https://apple-iphone15-nu.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://notion-landing-clone.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This is a clone of Notion Landing Page website using Next.js, Typescript, Framer motion, illustration and TailwindCSS. It highlights the effective use of Framer motion and illustration image for displaying 
+This is a clone of Notion Landing Page website using Next.js, Typescript, Framer motion, illustration and TailwindCSS. It highlights the effective use of Framer motion and illustration image for displaying different animation in various colors and shapes.
 
 If you're getting started and need assistance or face any bugs, contact me 
 
@@ -45,7 +45,7 @@ If you're getting started and need assistance or face any bugs, contact me
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Subtle Smooth Animations using CSS**: Enhanced user experience with seamless and captivating animations powered by Opendoddles illustration.
+👉 **Beautiful Subtle Smooth Animations using Framer-motion**: Enhanced user experience with seamless and captivating animations powered by Opendoddles illustration and Framer Motion.
 
 👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
 
